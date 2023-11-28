@@ -1,0 +1,7 @@
+{
+  "title": "New Task",
+  "description": "Description of the task",
+  "due_date": "2023-12-31T23:59:59",  // Replace with an appropriate date
+  "tags": ["tag1", "tag2"],
+  "status": "OPEN"
+}
