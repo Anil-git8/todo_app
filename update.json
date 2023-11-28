@@ -1,0 +1,7 @@
+{
+  "title": "Updated Task",
+  "description": "Updated description",
+  "due_date": "2025-01-15 T 23:59:59",  
+  "tags": ["tag3", "tag4"],
+  "status": "WORKING"
+}
